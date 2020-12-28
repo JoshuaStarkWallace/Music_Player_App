@@ -1,0 +1,15 @@
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\bin\Debug\Music_Player_App.exe.config
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\bin\Debug\Music_Player_App.exe
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\bin\Debug\Music_Player_App.pdb
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\bin\Debug\Interop.WMPLib.dll
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\bin\Debug\AxInterop.WMPLib.dll
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\obj\Debug\Music_Player_App.csprojAssemblyReference.cache
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\obj\Debug\Interop.WMPLib.dll
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\obj\Debug\AxInterop.WMPLib.dll
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\obj\Debug\Music_Player_App.csproj.ResolveComReference.cache
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\obj\Debug\Music_Player_App.Form1.resources
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\obj\Debug\Music_Player_App.Properties.Resources.resources
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\obj\Debug\Music_Player_App.csproj.GenerateResource.cache
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\obj\Debug\Music_Player_App.csproj.CoreCompileInputs.cache
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\obj\Debug\Music_Player_App.exe
+C:\All_Repos\Visual_Studio_Repos\Music_Player_App\Music_Player_App\obj\Debug\Music_Player_App.pdb
